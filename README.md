@@ -1,7 +1,7 @@
 # League of Legends login screen
 
 League of Legends login screen clone
-<p>App link: https://lol-login-react-typescript.vercel.app/ </p>
+<p>App link: https://lol-login-screen-react.vercel.app/ </p>
 
 ## 🎬 Prints
 <p align="center">
